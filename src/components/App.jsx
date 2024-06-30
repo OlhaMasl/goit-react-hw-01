@@ -4,7 +4,7 @@ import transactions from "../transactions.json";
 import Profile from "./Profile/Profile";
 import FriendList from "./FriendList/FriendList";
 import TransactionHistory from "./TransactionHistory/TransactionHistory";
-
+import "../index.css"
 
 
 const App = () => {
